@@ -1,3 +1,3 @@
-Challenge 2 (Golang)
+# Challenge 2 (Golang)
 
 ...
