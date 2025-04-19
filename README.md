@@ -1,6 +1,10 @@
 # Secure Code Review
 
-Secure Code Review - ...
+**Secure Code Review** is a systematic examination of an application's source code to identify security vulnerabilities, weaknesses, and flaws that could be exploited by attackers. It is a critical practice in SSDLC aimed at detecting and mitigating risks before deployment.
+
+This repo contains:
+- Challenges - practice in order to grow your skills
+- Methodology - how to perform secure code review
 
 ## Challenges
 
@@ -10,9 +14,10 @@ Secure Code Review - ...
 
 > There may be so-called unintended ways, so feel free to report it
 
-- Challenge 1
-- ...
+- [Challenge 1](challenges/challenge-1/README.md)
+- Challenge 2
+- to-do
 
 ## Methodology
 
-...
+- [ ] to-do
