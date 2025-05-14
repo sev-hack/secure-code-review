@@ -15,7 +15,7 @@ This repo contains:
 > There may be so-called unintended ways, so feel free to report it
 
 - [Challenge 1](challenges/challenge-1/README.md)
-- Challenge 2
+- [Challenge 2](challenges/challenge-2/README.md)
 - to-do
 
 ## Methodology
